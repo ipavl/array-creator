@@ -1,0 +1,11 @@
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\bin\Debug\WordListArrayWriter.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\bin\Debug\WordListArrayWriter.pdb
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\bin\Debug\WordListArrayWriter.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\WordListArrayWriter.ArrayWriter.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\WordListArrayWriter.Resources.resources
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\WordListArrayWriter.exe
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\WordListArrayWriter.xml
+C:\Users\Ian\AppData\Local\Temporary Projects\WordListArrayWriter\obj\x86\Debug\WordListArrayWriter.pdb

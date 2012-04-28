@@ -1,0 +1,26 @@
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.pdb
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.exe
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.xml
+C:\Users\Ian\documents\visual studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.InputFile.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.InputText.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.Startup.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.exe
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.pdb
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\bin\Debug\ArrayWriter.xml
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.InputFile.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.InputText.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\ArrayWriter.Startup.resources
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ian\Documents\Visual Studio 2010\Projects\Visual Basic\ArrayWriter\ArrayWriter\obj\x86\Debug\GenerateResource.write.1.tlog
